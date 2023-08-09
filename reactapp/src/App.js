@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import functions from "./functions/destucturing"
+
 function App() {
   return (
     <div className="App">
@@ -18,7 +18,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <functions/>
     </div>
   );
 }
